@@ -29,12 +29,12 @@ const Alert = ({ preview }: Props) => {
             </>
           ) : (
             <>
-              The source code for this blog is{" "}
+              This blog uses Next.Js blog template with markdown. The source code for this blog is {" "}
               <a
-                href={`https://github.com/vercel/next.js/tree/canary/examples/${EXAMPLE_PATH}`}
+                href={`https://github.com/andresilvagusmao/capybasicsblognextjs`}
                 className="underline hover:text-blue-600 duration-200 transition-colors"
               >
-                available on GitHub
+                available on My GitHub
               </a>
               .
             </>
