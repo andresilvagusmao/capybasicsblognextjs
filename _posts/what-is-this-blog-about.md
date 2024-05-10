@@ -1,7 +1,7 @@
 ---
 title: "What is this Blog all about?"
 excerpt: "Learn more about me and this Blog."
-date: "2077-05-02T10:00:00.000Z"
+date: "2077-07-07T10:00:00.000Z"
 author:
   name: Andre Silva Gusmao
   picture: "/assets/blog/authors/AndreGusmao.jpeg"
